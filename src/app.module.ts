@@ -11,7 +11,7 @@ import { SentencesModule } from './sentences/sentences.module'
             'mongodb+srv://danhockley1:06ymj6tqHJWDjCG2@sentencebuilder.fgmnxoo.mongodb.net/',
         ),
         WordsModule,
-        // SentencesModule,
+        SentencesModule,
     ],
     controllers: [AppController],
     providers: [AppService],
