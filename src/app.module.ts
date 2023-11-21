@@ -10,8 +10,8 @@ import { SentencesModule } from './sentences/sentences.module';
     // MongooseModule.forRoot(
     //   'mongodb+srv://danhockley1:06ymj6tqHJWDjCG2@sentencebuilder.fgmnxoo.mongodb.net/',
     // ),
-    WordsModule,
-    SentencesModule,
+    // WordsModule,
+    // SentencesModule,
   ],
   controllers: [AppController],
   providers: [AppService],
